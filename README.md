@@ -1,6 +1,8 @@
 # python_quic
 
-## A basic QUIC Python Library and Distributed File System Application demonstration
+## A basic QUIC Python Library and Distributed File System (DFS) Application
+
+The QUIC Python library supports 0-RTT handshake, secures data using both asymmetric and symmetric cryptography, and transports these packets over UDP sockets. The DFS application is used to demonstrate the functionality of the library.
 
 ### Install cryptography and rsa using the commands
 
