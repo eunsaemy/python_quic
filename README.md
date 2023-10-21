@@ -1,6 +1,6 @@
 # python_quic
 
-## A simple Python QUIC Library and DFS Application demonstration
+## A basic QUIC Python Library and Distributed File System Application demonstration
 
 ### Install cryptography and rsa using the commands
 
