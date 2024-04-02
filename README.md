@@ -4,7 +4,7 @@
 
 The QUIC Python library supports 0-RTT handshake, secures data using both asymmetric and symmetric cryptography, and transports these packets over UDP sockets. The DFS application is used to demonstrate the functionality of the library.
 
-### Install cryptography and rsa using the commands
+### Install cryptography and rsa using the commands:
 
 ```pip install cryptography```
 
